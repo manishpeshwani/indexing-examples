@@ -1,0 +1,1 @@
+Examples showing how lucene and apache solr works
